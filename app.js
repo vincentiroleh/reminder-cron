@@ -15,7 +15,7 @@ try {
     cron.schedule('* * * * *', () => {
         console.log('Running task now');
     
-        const email = 'blexnmirian@gmail.com';
+        const email = 'example@gmail.com';
         const subject = 'Learning Reminder';
         const msg = 'Time to code!'
         mailer(email, subject, msg);
