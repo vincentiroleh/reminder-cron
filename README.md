@@ -1,3 +1,3 @@
 # Cron Job
 
-Send an sms every minute to your email to remind you to code
+Send an email every minute to your email to remind you to code
